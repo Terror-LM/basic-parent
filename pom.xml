@@ -8,6 +8,10 @@
 	<packaging>pom</packaging>
 
 	<name>TerrorM Parent Project</name>
+	
+	<modules>
+		<module>basic-import</module>
+	</modules>
 
 	<scm>
 		<connection>scm:git:https://github.com/Terror-LM/basic-parent</connection>
