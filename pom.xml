@@ -4,7 +4,7 @@
 
 	<groupId>lm.trm</groupId>
 	<artifactId>basic-parent</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>TerrorM Parent Project</name>
@@ -790,7 +790,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<localCheckout>true</localCheckout>
-					<!-- <pushChanges>false</pushChanges> -->
+					<pushChanges>false</pushChanges>
 					<checkModificationExcludeList>.settings,.project,.classpath,target,classes,lib,.idea,*.iml</checkModificationExcludeList>
 					<releaseProfiles>product</releaseProfiles>
 				</configuration>
