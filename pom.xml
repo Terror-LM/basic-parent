@@ -4,7 +4,7 @@
 
 	<groupId>lm.trm.basic</groupId>
 	<artifactId>basic-parent</artifactId>
-	<version>0.0.0-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>maven ancestor pom</name>
