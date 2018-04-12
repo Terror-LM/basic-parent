@@ -10,8 +10,8 @@
 	<name>maven ancestor pom</name>
 
 	<scm>
-		<connection>scm:git:https://github.com/Terror-LM/basic-parent</connection>
-		<developerConnection>scm:git:https://github.com/Terror-LM/basic-parent</developerConnection>
+		<connection>scm:git:https://github.com/Terror-LM/basic-parent.git</connection>
+		<developerConnection>scm:git:https://github.com/Terror-LM/basic-parent.git</developerConnection>
 		<url>https://github.com/Terror-LM/basic-parent</url>
   </scm>
 
